@@ -1,7 +1,7 @@
 # OpenComputerVision
 Name : Arsyad Zhillan Gabriel<br/>
 NRP : 5026261119<br/>
-Brief analysis and constraints: The constraint I experienced was the inability to make the skin color red, as a result I revised it with special segment in my code for red color<br/>
+Brief analysis and constraints: TThe problem I encountered was the inability to interpret the color so that the skin color was considered as red, as a result I revised it by adding a special segment in my code for the color red<br/>
 <br/>Read this
 # How to do all the steps
 1. Firstly, you need ubuntu settings and make sure ROS Jazzy already installed
